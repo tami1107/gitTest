@@ -30,6 +30,9 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 		// •¶š—ñ‚Ì•\¦
 		DrawString(160, 160, "‚¿‚Ş‚Ç‚ñ‚Ç‚ñ", GetColor(255, 255, 255));
 		
+		// •¶š—ñ‚Ì•\¦
+		DrawString(160, 260, "‚â‚ñ‚Î‚é", GetColor(255, 255, 255));
+
 		// ü‚ğ•`‰æ
 		DrawLine(640, 0, 640, 720, GetColor(255, 255, 255));
 
